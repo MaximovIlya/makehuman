@@ -127,6 +127,7 @@ class ModifierSlider(gui.Slider):
             human = G.app.selectedHuman
             if self.value is None:
                 self.value = self.modifier.getValue()
+                
                 if human.isSubdivided():
                     if human.isProxied():
                         human.getProxyMesh().setVisibility(1)
