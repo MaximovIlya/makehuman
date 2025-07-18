@@ -1,0 +1,176 @@
+do_POST called
+Params: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Task started
+Parameters applied: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Exporting model to model.obj
+Export failed: 'Human' object has no attribute 'exportMesh'
+Export error: 'Human' object has no attribute 'exportMesh'
+Task finished
+Model sent in response
+do_POST called
+Params: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Task started
+Parameters applied: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+do_POST called
+Params: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Task started
+Parameters applied: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Model exported to model.obj
+Exported file size: 1878503
+Model saved to model.obj
+Task finished
+Model sent in response
+Parameters applied: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.03225806451612903, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.03225806451612903, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.03225806451612903, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.03225806451612903, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.03225806451612903, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.03225806451612903, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.03225806451612903, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.5, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.3, 'macrodetails/Gender': 0.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.5, 'macrodetails-universal/Weight': 0.5, 'macrodetails-height/Height': 0.3, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 0.5, 'measure/measure-bust-circ-decr|incr': 0.5, 'measure/measure-waist-circ-decr|incr': 0.5, 'measure/measure-hips-circ-decr|incr': 0.5, 'measure/measure-thigh-circ-decr|incr': 0.5, 'measure/measure-upperarm-circ-decr|incr': 0.5, 'measure/measure-calf-circ-decr|incr': 0.5, 'measure/measure-ankle-circ-decr|incr': 0.5, 'measure/measure-wrist-circ-decr|incr': 0.5, 'measure/measure-frontchest-dist-decr|incr': 0.5, 'measure/measure-knee-circ-decr|incr': 0.5, 'measure/measure-lowerarm-length-decr|incr': 0.5}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.03225806451612903, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.03225806451612903, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.21348314606741572, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.21348314606741572, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Parameters applied: {'macrodetails/Age': 0.21348314606741572, 'macrodetails-universal/Weight': 0.38181818181818183, 'macrodetails-height/Height': 0.6285714285714286, 'macrodetails/Gender': 1.0, 'measure/measure-shoulder-dist-decr|incr': 1.0, 'measure/measure-bust-circ-decr|incr': 0.45002857142857017, 'measure/measure-waist-circ-decr|incr': 0.479471428571428, 'measure/measure-hips-circ-decr|incr': 0.3990571428571422, 'measure/measure-thigh-circ-decr|incr': 0.4737500000000011, 'measure/measure-upperarm-circ-decr|incr': 0.47276666666666667, 'measure/measure-calf-circ-decr|incr': 0.4103600000000003, 'measure/measure-ankle-circ-decr|incr': 0.5481999999999999, 'measure/measure-wrist-circ-decr|incr': 0.4972500000000002, 'measure/measure-frontchest-dist-decr|incr': 0.3627333333333326, 'measure/measure-knee-circ-decr|incr': 0.5212000000000003, 'measure/measure-lowerarm-length-decr|incr': 0.30514999999999937}
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Ошибка при надевании одежды: 'NoneType' object has no attribute 'uuid'
+Parameters applied: {}, clothes: ['makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'makehuman/data/clothes/shoes01/shoes01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Ошибка при надевании одежды: 'NoneType' object has no attribute 'uuid'
+Parameters applied: {}, clothes: ['makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'makehuman/data/clothes/shoes01/shoes01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Ошибка при надевании одежды: 'NoneType' object has no attribute 'uuid'
+Parameters applied: {}, clothes: ['makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Ошибка при надевании одежды: 'NoneType' object has no attribute 'uuid'
+Parameters applied: {}, clothes: ['makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Ошибка при надевании одежды: 'NoneType' object has no attribute 'uuid'
+Parameters applied: {}, clothes: ['makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Пробую надеть: makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Ошибка при попытке надеть makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhclo: 'NoneType' object has no attribute 'uuid'
+Одежда надета: ['makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhclo']
+Parameters applied: {}, clothes: ['makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Пробую надеть: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Одежда надета: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Пробую надеть: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Пробую надеть: data/clothes/shoes01/shoes01.mhclo
+Успешно вызван equipClothes для: data/clothes/shoes01/shoes01.mhclo
+Одежда надета: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'data/clothes/shoes01/shoes01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'data/clothes/shoes01/shoes01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+Пробую надеть: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Пробую надеть: data/clothes/shoes02/shoes02.mhclo
+Успешно вызван equipClothes для: data/clothes/shoes02/shoes02.mhclo
+Одежда надета: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'data/clothes/shoes02/shoes02.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'data/clothes/shoes02/shoes02.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе
+FATAL ERROR in do_POST: name 'cgi' is not defined
+Traceback (most recent call last):
+  File "D:\projects\makehuman\makehuman\makehuman\plugins\autoexec_plugin.py", line 51, in do_POST
+    ctype, pdict = cgi.parse_header(self.headers.get('content-type'))
+                   ^^^
+NameError: name 'cgi' is not defined
+
+Пробую надеть: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Пробую надеть: data/clothes/shoes02/shoes02.mhclo
+Успешно вызван equipClothes для: data/clothes/shoes02/shoes02.mhclo
+Одежда надета: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'data/clothes/shoes02/shoes02.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'data/clothes/shoes02/shoes02.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/female_casualsuit01/female_casualsuit01.mhclo
+Пробую надеть: data/clothes/shoes02/shoes02.mhclo
+Успешно вызван equipClothes для: data/clothes/shoes02/shoes02.mhclo
+Одежда надета: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'data/clothes/shoes02/shoes02.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/female_casualsuit01/female_casualsuit01.mhclo', 'data/clothes/shoes02/shoes02.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
