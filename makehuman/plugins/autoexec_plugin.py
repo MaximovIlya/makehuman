@@ -10,6 +10,7 @@ from typing import TYPE_CHECKING, cast
 import os
 import zipfile
 import importlib
+import time
 
 def plugin_log(msg):
     log_path = os.path.join(os.path.dirname(__file__), "plugin_debug.log")
@@ -23,9 +24,16 @@ def export_model(path):
         plugin_log("No selected human to export")
         return False, "No selected human"
     try:
-        wavefront.writeObjFile(path, human.mesh)
-        plugin_log(f"Model exported to {path}")
-        return True, f"Model exported to {path}"
+        # Получаем все объекты (базовая модель + одежда + другие прокси)
+        objects = human.getObjects(excludeZeroFaceObjs=True)
+        meshes = [obj.mesh for obj in objects]
+        
+        plugin_log(f"Exporting {len(objects)} objects: {[obj.name for obj in objects]}")
+        
+        # Экспортируем все меши в один OBJ файл
+        wavefront.writeObjFile(path, meshes, True)
+        plugin_log(f"Model with clothes exported to {path}")
+        return True, f"Model with clothes exported to {path}"
     except Exception as e:
         plugin_log(f"Export failed: {e}")
         return False, str(e)
@@ -102,6 +110,17 @@ class RequestHandler(BaseHTTPRequestHandler):
             if os.path.exists(zip_path):
                 with open(zip_path, "rb") as f:
                     zip_data = f.read()
+                
+                # Удалено: сохранение ZIP в корень проекта
+                # timestamp = int(time.time())
+                # saved_zip_path = os.path.join(os.getcwd(), f"model_{timestamp}.zip")
+                # try:
+                #     with open(saved_zip_path, "wb") as f:
+                #         f.write(zip_data)
+                #     plugin_log(f"Модель сохранена в корень проекта: {saved_zip_path}")
+                # except Exception as e:
+                #     plugin_log(f"Ошибка при сохранении в корень проекта: {e}")
+                
                 self.send_response(200)
                 self.send_header("Content-Type", "application/zip")
                 self.send_header("Content-Disposition", 'attachment; filename="model.zip"')

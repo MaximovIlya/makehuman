@@ -174,3 +174,87 @@ Parameters applied: {}, clothes: ['data/clothes/female_casualsuit01/female_casua
 Model exported to model.obj
 Export: Model exported to model.obj
 [autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/shoes01/shoes01.mhclo
+Успешно вызван equipClothes для: data/clothes/shoes01/shoes01.mhclo
+Одежда надета: ['data/clothes/shoes01/shoes01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/shoes01/shoes01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Model exported to model.obj
+Export: Model exported to model.obj
+Модель сохранена в корень проекта: C:\Projects\makehuman\makehuman\makehuman\model_1752801214.zip
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Модель сохранена в корень проекта: C:\Projects\makehuman\makehuman\makehuman\model_1752801488.zip
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
