@@ -13,10 +13,3 @@ Ks 1 1 1
 d 0
 map_Kd C:/Projects/makehuman/makehuman/makehuman/data/eyes/materials/brown_eye.png
 map_D C:/Projects/makehuman/makehuman/makehuman/data/eyes/materials/brown_eye.png
-
-newmtl male_worksuit01
-Kd 1 1 1
-Ks 0.02745 0.02745 0.02745
-d 0
-map_Kd C:/Projects/makehuman/makehuman/makehuman/data/clothes/male_worksuit01/male_worksuit01_diffuse.png
-map_D C:/Projects/makehuman/makehuman/makehuman/data/clothes/male_worksuit01/male_worksuit01_diffuse.png

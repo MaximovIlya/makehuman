@@ -75,6 +75,24 @@ def apply_clothes(clothes_list):
 def apply_params(params):
     human = G.app.selectedHuman
     clothes = params.pop('clothes', None)
+    
+    # Если в запросе нет одежды, снимаем всю одежду
+    if clothes is None:
+        try:
+            mhapi = getattr(G.app, 'mhapi', None)
+            if mhapi is None:
+                try:
+                    mhapi_mod = importlib.import_module('makehuman.plugins.1_mhapi')
+                    mhapi_mod.load(G.app)
+                    mhapi = G.app.mhapi
+                except Exception as e:
+                    plugin_log(f"Не удалось инициализировать mhapi для снятия одежды: {e}")
+            else:
+                mhapi.assets.unequipAllClothes()
+                plugin_log("Вся одежда снята")
+        except Exception as e:
+            plugin_log(f"Ошибка при снятии одежды: {e}")
+    
     for name, value in params.items():
         modifier = human.getModifier(name)
         if modifier:

@@ -258,3 +258,75 @@ Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
 Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
 Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
 [autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/shoes01/shoes01.mhclo
+Успешно вызван equipClothes для: data/clothes/shoes01/shoes01.mhclo
+Одежда надета: ['data/clothes/shoes01/shoes01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/shoes01/shoes01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'shoes01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Parameters applied: {'macrodetails-height/Height': 0.5}, clothes: None
+Exporting 2 objects: ['base.obj', 'high-poly.obj']
+Model with clothes exported to model.obj
+Export: Model with clothes exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Parameters applied: {'macrodetails-height/Height': 0.5}, clothes: None
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Пробую надеть: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Успешно вызван equipClothes для: data/clothes/male_worksuit01/male_worksuit01.mhclo
+Одежда надета: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Parameters applied: {}, clothes: ['data/clothes/male_worksuit01/male_worksuit01.mhclo']
+Exporting 3 objects: ['base.obj', 'high-poly.obj', 'male_worksuit01.obj']
+Export failed: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+Export: 'NoneType' object has no attribute 'copyTextureToNewLocation'
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
+Вся одежда снята
+Parameters applied: {'macrodetails-height/Height': 0.5}, clothes: None
+Exporting 2 objects: ['base.obj', 'high-poly.obj']
+Model with clothes exported to model.obj
+Export: Model with clothes exported to model.obj
+[autoexec_plugin] Архив model.zip отправлен в ответе (json)
